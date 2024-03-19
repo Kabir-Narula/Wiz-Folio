@@ -10,7 +10,8 @@
 ![Nextjs Creative Portfolio Website](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-desktop.png)
 
 #### About
-![Nextjs Creative Portfolio Website About Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-desktop-full.png)
+![12](https://github.com/Kabir-Narula/Wiz-Folio/assets/137004973/95bea33f-1e1a-4a4e-8590-becaa4bebca1)
+![13](https://github.com/Kabir-Narula/Wiz-Folio/assets/137004973/5747b253-720e-4210-9f4e-38700c77ddb0)
 
 #### Projects
 ![Next.js Creative Portfolio Website Projects Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-desktop.png)
@@ -18,11 +19,7 @@
 #### Contact
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-desktop.png)
 
-#### Mobile Version
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-mobile.png)
+
 
 ## Resources Used in This Project
 
